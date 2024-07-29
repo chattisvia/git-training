@@ -1,4 +1,3 @@
 ### Latihan github
 ## Menambah 2 commit
 # Menambah commit
-* mengubah commit 2
